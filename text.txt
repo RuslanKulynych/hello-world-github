@@ -1,0 +1,7 @@
+Formatted text is any text that contains special formatting such as font size, font color, bold, italic, etc. 
+When copying text, formatted text is any text that keeps its settings from where it is copied. 
+For example, if you copied text that was bold and then pasted it into a program supporting bold text, the text would remain bold. 
+However, if you pasted the text into a program that did not support bold text, the formatting would be removed.
+Unformatted text is any text that, when copied from the source, may lose its formatting when pasted into another program. 
+It may be pasted as plain text because the source program stripped it of its formatting, or because the target program 
+does not support the original formatting.
